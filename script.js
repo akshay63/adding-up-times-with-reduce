@@ -1,5 +1,5 @@
 /*
- **--------- Project18: Adding Up Times with reduce method ---------**
+ **--------- Project19: Adding Up Times with reduce method ---------**
 
 GOAL: Given a list, your task is to access all the Time stamps from the list. Convert the string into numbers and then add them all up and console log the total time in Hours, Minutes and Seconds.
 
